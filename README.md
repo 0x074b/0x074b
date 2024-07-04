@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![R](https://github.com/0x074b/0x074b/assets/83349783/fcb84070-4e1a-4897-8f6e-169b6b98febe)
-## 
+
 ## 🗒️ About Me 💬
 <ul>
   <li>Languages spoken :</li>
@@ -13,8 +13,22 @@
     <li>🇪🇸 - A1</li>
     <li>🇨🇳 - A0</li>
   </ul>
-  
+  <li>Hobbies :</li>
+  <ul>
+    <li>Guitar 🎸</li>
+    <li>Music / Vinyl 🎵</li>
+    <li>Drawing 🖼️</li>
+    <li>Snorkeling 🤿</li>
+    <li>Climbing ⛰️</li>
+    <li>ULM piloting 🛩️</li>
+    <li>Dance 💃</li>
+    <li>Robotics 🤖</li>
+    <li>Cybersecurity 🛜</li>
+    <li>Krav Maga 🥋</li>
+    <li>Language learning 🌍</li>
+  </ul>
 </ul>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
