@@ -6,15 +6,15 @@
 <li>Languages spoken :</li>
 &nbsp;&nbsp;&nbsp;&nbsp;🇫🇷 - Native  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 - B2  
+&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 - B2
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇷🇺 - A2  
+&nbsp;&nbsp;&nbsp;&nbsp;🇷🇺 - A2
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 - A1  
+&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 - A1
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 - A1  
+&nbsp;&nbsp;&nbsp;&nbsp;🇪🇸 - A1
 
-&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 - A0  
+&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 - A0
 
 <!--
 - 🔭 I’m currently working on ...
