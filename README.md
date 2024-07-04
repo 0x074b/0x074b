@@ -4,7 +4,7 @@
 
 🗒️ About Me 💬
 <li>Languages spoken :</li>
-&nbsp;&nbsp;&nbsp;&nbsp;![R](https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png?v8)
+&nbsp;&nbsp;&nbsp;&nbsp;🇫🇷
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
