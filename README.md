@@ -21,6 +21,7 @@
     <li>Snorkeling 🤿</li>
     <li>Climbing ⛰️</li>
     <li>ULM piloting 🛩️</li>
+    <li>Skydiving 🪂</li>
     <li>Dance 💃</li>
     <li>Robotics 🤖</li>
     <li>Cybersecurity 🛜</li>
