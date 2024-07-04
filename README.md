@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/DHCwGhM8IwzjtbkoXk/video" width="100"/>
-</div>
+<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/DHCwGhM8IwzjtbkoXk/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
 
 <!--
 **0x074b/0x074b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
