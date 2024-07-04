@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![R](https://github.com/0x074b/0x074b/assets/83349783/fcb84070-4e1a-4897-8f6e-169b6b98febe)  
-
+![R](https://github.com/0x074b/0x074b/assets/83349783/fcb84070-4e1a-4897-8f6e-169b6b98febe)
 🗒️ About Me 💬
 <ul>
   <li>Languages spoken :</li>
