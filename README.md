@@ -4,7 +4,7 @@
 
 🗒️ About Me 💬
 <li>Languages spoken :</li>
-&ensp;<li>French</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li>French</li>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
