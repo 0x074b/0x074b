@@ -29,7 +29,7 @@
     <li>Krav Maga 🥋</li>
     <li>Language learning 🌍</li>
   </ul>
-  
+  <br />
   <li>📩 Contact 💬</li>
   <ul>
     <li>Discord - capitaine_barnacles</li>
