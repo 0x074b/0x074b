@@ -13,7 +13,7 @@
     <li>🇪🇸 - A1</li>
     <li>🇨🇳 - A0</li>
   </ul>
-  <li> </li>
+  <br />
   <li>🚲 Hobbies 🧗‍♂️</li>
   <ul>
     <li>Guitar 🎸</li>
