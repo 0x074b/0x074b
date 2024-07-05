@@ -13,7 +13,7 @@
     <li>🇪🇸 - A1</li>
     <li>🇨🇳 - A0</li>
   </ul>
-  <li>Hobbies :</li>
+  <li>🚲 Hobbies 🧗‍♂️</li>
   <ul>
     <li>Guitar 🎸</li>
     <li>Music / Vinyl 🎵</li>
@@ -27,6 +27,11 @@
     <li>Cybersecurity 🛜</li>
     <li>Krav Maga 🥋</li>
     <li>Language learning 🌍</li>
+  </ul>
+  
+  <li>📩 Contact 💬</li>
+  <ul>
+    <li>Discord - capitaine_barnacles</li>
   </ul>
 </ul>
 
