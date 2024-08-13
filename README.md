@@ -19,7 +19,7 @@
     <li>Guitar 🎸</li>
     <li>Music / Vinyl 🎵</li>
     <li>Drawing 🖼️</li>
-    <li>Snorkeling 🤿</li>
+    <li>Scuba diving 🤿</li>
     <li>Climbing ⛰️</li>
     <li>ULM piloting 🛩️</li>
     <li>Skydiving 🪂</li>
