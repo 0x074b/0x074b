@@ -7,7 +7,7 @@
   <li>Languages spoken :</li>
   <ul>
     <li>🇫🇷 - Native</li>
-    <li>🇬🇧 - B2</li>
+    <li>🇬🇧 - C1</li>
     <li>🇷🇺 - A2</li>
     <li>🇩🇪 - A1</li>
     <li>🇪🇸 - A1</li>
@@ -21,7 +21,6 @@
     <li>Drawing 🖼️</li>
     <li>Scuba diving 🤿</li>
     <li>Climbing ⛰️</li>
-    <li>ULM piloting 🛩️</li>
     <li>Skydiving 🪂</li>
     <li>Dance 💃</li>
     <li>Robotics 🤖</li>
