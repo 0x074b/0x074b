@@ -4,7 +4,7 @@
 
 ## 🗒️ About Me 💬
 <ul>
-  <li>Languages spoken :</li>
+  <li> 💬 Languages spoken 🌍:</li>
   <ul>
     <li> 🥖 🇫🇷 - Native</li>
     <li> 👑 🇬🇧 - C1</li>
@@ -14,7 +14,7 @@
     <li> 🐉 🇨🇳 - A0</li>
   </ul>
   <br />
-  <li>🚲 Hobbies 🧗‍♂️</li>
+  <li>🚲 hobbies, passions, obsessions 🧗‍♂️</li>
   <ul>
     <li>Guitar 🎸</li>
     <li>Music / Vinyl 🎵</li>
