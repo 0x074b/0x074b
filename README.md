@@ -25,6 +25,7 @@
     <li>Language learning 🌍</li>
     <li>Robotics 🤖</li>
     <li>Cybersecurity 🛜</li>
+    <li>Space 🚀</li>
     <li>Scuba diving 🤿 (wannabe cave diver)</li>
     
 ![image](https://github.com/user-attachments/assets/e6bad8ee-64d5-433d-ba34-8e1c29164821)
