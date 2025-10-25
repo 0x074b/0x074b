@@ -7,11 +7,11 @@
   <li> 💬 Languages spoken 🌍:</li>
   <ul>
     <li> 🥖 🇫🇷 - Native</li>
-    <li> 👑 🇬🇧 - C1</li>
-    <li> 🪆 🇷🇺 - A2</li>
+    <li> 👑 🇬🇧 - C2</li>
+    <li> 🪆 🇷🇺 - B1</li>
     <li> 🥨 🇩🇪 - A1</li>
     <li> 💃 🇪🇸 - A1</li>
-    <li> 🐉 🇨🇳 - A0</li>
+    <li> 🐉 🇨🇳 - A1</li>
   </ul>
   <br />
   <li>🚲 hobbies, passions, obsessions 🧗‍♂️</li>
